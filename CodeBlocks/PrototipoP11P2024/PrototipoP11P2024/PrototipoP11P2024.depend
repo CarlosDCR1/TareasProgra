@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1709137644 source:c:\users\calde\desktop\umg\progra1\programa01\tareas_progra1\codeblocks\prototipop11p2024\prototipop11p2024\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	<iomanip>
+

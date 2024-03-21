@@ -73,7 +73,6 @@ void Tabla (const vector<Equipo>& equipos)
 
 }
 
-
 string CalcuGanador(const vector<Equipo>& equipos)
 {
     int maxPuntos = 0;

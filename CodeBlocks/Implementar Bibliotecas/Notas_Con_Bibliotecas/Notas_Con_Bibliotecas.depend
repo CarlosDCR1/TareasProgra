@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1712519024 source:c:\users\calde\desktop\umg\progra1\programa01\tareas_progra1\codeblocks\implementar bibliotecas\notas_con_bibliotecas\main.cpp
+	"Notas.h"
+
+1712519564 c:\users\calde\desktop\umg\progra1\programa01\tareas_progra1\codeblocks\implementar bibliotecas\notas_con_bibliotecas\include\notas.h
+	<iostream>
+	<iomanip>
+	<string>
+
+1712513697 c:\users\calde\desktop\umg\progra1\programa01\tareas_progra1\codeblocks\implementar bibliotecas\notas_con_bibliotecas\include\num_aleatoreo.h
+
+1712521413 source:c:\users\calde\desktop\umg\progra1\programa01\tareas_progra1\codeblocks\implementar bibliotecas\notas_con_bibliotecas\src\notas.cpp
+	"Notas.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+
